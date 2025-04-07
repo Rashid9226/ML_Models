@@ -21,6 +21,7 @@ This app walks you through:
 - Tree pruning
 
 📁 File: `Decition Tree Classifier intuition.py`
+🖥️ app: https://decisiontreeintuition00.streamlit.app/
 
 ---
 
@@ -39,6 +40,7 @@ This app helps you explore:
 - Bias-variance trade-off in KNN
 
 📁 File: `knn_intuition.py`
+🖥️ app: https://knnmodelintuition.streamlit.app/
 
 ---
 
@@ -57,6 +59,7 @@ This app compares:
 - The benefit of multiple weak learners forming a strong model
 
 📁 File: `RF_app.py`
+🖥️ app: https://randomforrestclf.streamlit.app/
 
 ---
 
