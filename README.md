@@ -20,7 +20,7 @@ This app walks you through:
 - Information gain
 - Tree pruning
 
-📁 File: `decision_tree_clf_intuition/`
+📁 File: `Decition Tree Classifier intuition.py`
 
 ---
 
@@ -38,7 +38,7 @@ This app helps you explore:
 - The importance of feature scaling
 - Bias-variance trade-off in KNN
 
-📁 Folder: `knn_intuition/`
+📁 File: `knn_intuition.py`
 
 ---
 
@@ -56,7 +56,7 @@ This app compares:
 - Bias-variance trade-off
 - The benefit of multiple weak learners forming a strong model
 
-📁 Folder: `randomforest_vs_decisiontree/`
+📁 File: `Random_Forrest_clf_vs_DT.py`
 
 ---
 
