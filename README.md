@@ -56,7 +56,7 @@ This app compares:
 - Bias-variance trade-off
 - The benefit of multiple weak learners forming a strong model
 
-📁 File: `Random_Forrest_clf_vs_DT.py`
+📁 File: `RF_app.py`
 
 ---
 
